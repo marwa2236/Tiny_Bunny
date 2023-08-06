@@ -40,18 +40,28 @@
 "banner_network_choice":"vungle", 
 "interstisial_network_choice":"vungle", 
 "reward_network_choice":"vungle",
-"native_network_choice":"admob"
+"native_network_choice":"vungle"
   
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Once upon a time, in a quaint village nestled between rolling hills and lush forests, lived a young boy named Timmy. Timmy was known for his curiosity and boundless imagination. One day, while exploring the woods, he stumbled upon a mysterious, tiny door hidden beneath a bush. ",
+   "photo1":"https://iili.io/Ht0TOsj.webp"},
+  {"desc2":"Intrigued, Timmy decided to open the door. To his amazement, he found himself transported to a fantastical world beyond his wildest dreams. He entered a magical realm where everything was miniature-sized, and the inhabitants were tiny, talking bunnies called "Tinny Bunys."
+
+","photo2":"https://iili.io/Ht0TNWb.webp"},
+  {"desc3":"The Tinny Bunys were a lively and friendly bunch, known for their love of adventure and storytelling. Timmy was fascinated by their world, which was filled with colorful landscapes, enchanted forests, and sparkling rivers.
+
+r","photo3":"https://iili.io/Ht0Twzu.webp"},
+  {"desc4":"As he spent more time with the Tinny Bunys, he learned about their ancient prophecy. It foretold the arrival of a human child who would be destined to bring harmony to their realm, which was threatened by an evil sorceress named Morgana. She had cast a spell on their land, causing discord and chaos.
+
+","photo4":"https://iili.io/Ht0Thbe.webp"},
+  {"desc5":"Together with his newfound friends, Timmy journeyed through dense forests, crossed treacherous streams, and encountered mystical creatures. Along the way, they faced numerous challenges, but the camaraderie and determination of the Tinny Bunys inspired him to keep going.
+
+","photo5":"https://iili.io/Ht0Tkqx.webp"},
+  {"descd":"Finally, after days of adventure, they reached the heart of the Enchanted Valley. There, atop a crystal pedestal, rested the dazzling Gem of Unity. However, before they could take the gem, Morgana herself appeared, cloaked in dark magic.
+
+","photod":"https://iili.io/Ht0Tv0Q.webp"}
    ]
  
 }
